@@ -4,6 +4,8 @@
 
 Built by **NonChalant Coders**.
 
+live:https://hackwithbangalore.lovable.app
+
 Operators tag **@Foreman** in an incident thread. Foreman recalls similar incidents from [Hindsight](https://github.com/vectorize-io/hindsight) agent memory, forms a root-cause hypothesis, warns about fixes that already failed, proposes one-click actions (CAPA, work order, follow-up), and later asks whether the fix held. Every answer makes the next one sharper.
 
 ---
