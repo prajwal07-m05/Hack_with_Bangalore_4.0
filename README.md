@@ -205,4 +205,4 @@ bun run format   # prettier
 
 ## Authors
 
-**NonChalant Codes**
+**NonChalant Coders**
